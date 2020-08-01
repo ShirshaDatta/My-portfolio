@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-<img src="/assets/interface1.PNG" alt="appview1" width="auto" height="auto"> </img>
+<img src="/assets/interface1.PNG" alt="appview1" width="400vw" height="auto"> </img>
 
 A few resources to get you started if this is your first Flutter project:
 
