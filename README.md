@@ -7,7 +7,7 @@ A new Flutter project.
 This project is a starting point for a Flutter application.
 
 
-<img src="F:\flutter_class\projects\margin_app\assets\interface1.PNG" alt="appview1"width="auto" height="auto">
+<img src="F:\flutter_class\projects\margin_app\assets\interface1.PNG" alt="appview1"width="auto" height="auto" />
 
 A few resources to get you started if this is your first Flutter project:
 
